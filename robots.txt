@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-f7sctg.skysonar.net/sitemap.xml
